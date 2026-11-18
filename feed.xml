@@ -4,10 +4,17 @@
     <title>Color Grading &amp; DaVinci Resolve Studio Hub</title>
     <link>https://color-grading-davinci-resolve-studio-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 11:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:29:20 GMT</lastBuildDate>
     <atom:link href="https://color-grading-davinci-resolve-studio-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
+      <link>https://www.reddit.com/r/hardware/</link>
+      <guid isPermaLink="false">https://color-grading-davinci-resolve-studio-hub.netlify.app/#color-grading-davinci-resolve-studio-hub-reddit-20261118-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:29:20 GMT</pubDate>
+      <description>Newly verified community added to Color Grading &amp; DaVinci Resolve Studio Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
+    </item>
+<item>
       <title>Color Grading &amp; DaVinci Resolve Studio Hub Initial Release</title>
       <link>https://color-grading-davinci-resolve-studio-hub.netlify.app/</link>
       <pubDate>Wed, 16 Sep 2026 11:23:58 GMT</pubDate>
